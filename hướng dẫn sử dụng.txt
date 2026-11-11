@@ -1,0 +1,5 @@
+Cách dùng
+
+Cài một lần: pip install opencv-python numpy
+Kéo-thả ảnh hoặc thư mục ảnh lên chay_cccd.bat, hoặc chạy python cccd_scanner.py anh.jpg.
+Kết quả nằm trong thư mục output: thẻ nằm ngang, đã nắn thẳng, cắt gọn và xoay đúng chiều.
